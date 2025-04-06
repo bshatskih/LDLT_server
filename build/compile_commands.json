@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/client",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0A00 @CMakeFiles/client.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\client.dir\\main.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\client\\main.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/client/main.cpp",
+  "output": "client/CMakeFiles/client.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/client",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0A00 @CMakeFiles/client.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\client.dir\\CSRMatrix.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\client\\CSRMatrix.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/client/CSRMatrix.cpp",
+  "output": "client/CMakeFiles/client.dir/CSRMatrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_C.rsp -g -o CMakeFiles\\boost_container.dir\\src\\alloc_lib.c.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\alloc_lib.c",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/alloc_lib.c",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/alloc_lib.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\dlmalloc.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\dlmalloc.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/dlmalloc.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/dlmalloc.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\global_resource.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\global_resource.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/global_resource.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/global_resource.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\monotonic_buffer_resource.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\monotonic_buffer_resource.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/monotonic_buffer_resource.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/monotonic_buffer_resource.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\pool_resource.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\pool_resource.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/pool_resource.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/pool_resource.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\synchronized_pool_resource.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\synchronized_pool_resource.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/synchronized_pool_resource.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/synchronized_pool_resource.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/container",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK @CMakeFiles/boost_container.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_container.dir\\src\\unsynchronized_pool_resource.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\container\\src\\unsynchronized_pool_resource.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/container/src/unsynchronized_pool_resource.cpp",
+  "output": "_deps/boost-build/libs/container/CMakeFiles/boost_container.dir/src/unsynchronized_pool_resource.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-build/libs/random",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK @CMakeFiles/boost_random.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\boost_random.dir\\src\\random_device.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\build\\_deps\\boost-src\\libs\\random\\src\\random_device.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/build/_deps/boost-src/libs/random/src/random_device.cpp",
+  "output": "_deps/boost-build/libs/random/CMakeFiles/boost_random.dir/src/random_device.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/server",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0A00 @CMakeFiles/server.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\server.dir\\main.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\server\\main.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/server/main.cpp",
+  "output": "server/CMakeFiles/server.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/server",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0A00 @CMakeFiles/server.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\server.dir\\CSRMatrix.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\server\\CSRMatrix.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/server/CSRMatrix.cpp",
+  "output": "server/CMakeFiles/server.dir/CSRMatrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/Cpp_projects/LDLT_server/build/server",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTAINER_STATIC_LINK -DBOOST_RANDOM_NO_LIB -DBOOST_RANDOM_STATIC_LINK -DWIN32_LEAN_AND_MEAN -D_WIN32_WINNT=0x0A00 @CMakeFiles/server.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\server.dir\\LDLT_matrices.cpp.obj -c C:\\Users\\HP\\Cpp_projects\\LDLT_server\\server\\LDLT_matrices.cpp",
+  "file": "C:/Users/HP/Cpp_projects/LDLT_server/server/LDLT_matrices.cpp",
+  "output": "server/CMakeFiles/server.dir/LDLT_matrices.cpp.obj"
+}
+]

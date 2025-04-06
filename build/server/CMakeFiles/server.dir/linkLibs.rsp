@@ -1,0 +1,1 @@
+ -lwsock32 -lws2_32 "../_deps/boost-build/libs/container/libboost_container-gcc13-mt-d-x64-1_87.a" "../_deps/boost-build/libs/random/libboost_random-gcc13-mt-d-x64-1_87.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
